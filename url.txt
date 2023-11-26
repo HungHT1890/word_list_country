@@ -1,0 +1,2 @@
+Vietnam: https://github.com/duyet/vietnamese-wordlist.git
+Russia: https://github.com/kkrypt0nn/wordlists/blob/main/wordlists/languages/russian.txt
